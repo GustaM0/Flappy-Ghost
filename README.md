@@ -18,12 +18,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -31,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://drive.google.com/file/d/1ezrrnCSh3P4BH_aXtbIdOhmSuIhbozWC/view?usp=sharing" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Readme - Flappy Ghost</h3>
@@ -145,15 +139,15 @@ Pessoas que ajudaram a tornar o sonho deste projeto possível e real:
 
 
 <a href="https://github.com/GustaM0?tab=following">
-  <img src="https://avatars.githubusercontent.com/u/169943962?v=4" alt="contrib.rocks image" />
+  <img src="https://avatars.githubusercontent.com/u/169943962?v=4" alt="contrib.rocks image"  width="80" height="80" />
 </a>
 
 <a href="https://github.com/JoaoP3droMM">
-  <img src="https://avatars.githubusercontent.com/u/105229253?v=4" alt="contrib.rocks image" />
+  <img src="https://avatars.githubusercontent.com/u/105229253?v=4" alt="contrib.rocks image"  width="80" height="80" />
 </a>
 
 <a href="https://github.com/MWILLITT">
-  <img src="https://avatars.githubusercontent.com/u/103945425?v=4" alt="contrib.rocks image" />
+  <img src="https://avatars.githubusercontent.com/u/103945425?v=4" alt="contrib.rocks image"  width="80" height="80"/>
 </a>
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>

@@ -86,38 +86,38 @@ https://drive.google.com/file/d/1uUY-21boY87QUZTCjMh5WyNNo1m5la_D/view?usp=shari
 
 Checklist para o Projeto de Algoritmo em Computabilidade e Complexidade de Algoritmo
 
-Fase 1: Análise [ ] 
+Fase 1: Análise [ X ] 
 <br>
 [ X ] Problema selecionado e definido claramente.<br>
 [ X ]  Compreensão aprofundada da natureza e desafios do problema.<br>
 [ X ] Modelo matemático ou teórico desenvolvido para representar o problema.
-Fase 2: Planejamento [ ] 
-
-<br> [ X ] Objetivos do algoritmo definidos com clareza.
+<br>
+Fase 2: Planejamento [ X ] 
+<br>[ X ] Objetivos do algoritmo definidos com clareza.
 <br> [ X ] Métricas para avaliação de eficiência do algoritmo estabelecidas.
 <br> [ X ] Estratégia geral de resolução do problema proposta.
 <br> [ X ] Subproblemas identificados e divididos, se aplicável.
 <br> [ X ] Estrutura geral do algoritmo esboçada.
 <br> [ X ] Casos limite ou situações especiais identificados.
 <br> [ X ] Análise teórica realizada para verificar a correção do algoritmo.
-Fase 3: Desenho [ ] 
 
+Fase 3: Desenho [ X ] 
 <br> [ X ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
 <br> [ X ] Pontos críticos do algoritmo identificados para otimização, se necessário.
-Fase 4: Programação e Teste [ ] 
+Fase 4: Programação e Teste [ X ] 
 <br>
 [ X ] Algoritmo traduzido com precisão em código de programação.<br>
 [ X ] Código de programação escrito de forma clara e organizada.<br>
 [ X ]  Testes rigorosos realizados em uma variedade de casos de teste.<br>
 [ X ] Casos limite e situações especiais testados.<br>
 [ X ] Erros e problemas durante o teste de programa identificados e corrigidos.
-Documentação e Avaliação do Projeto [ ] 
+Documentação e Avaliação do Projeto [ X ] 
 
 <br> [ X ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
 <br> [ X ] Documentação revisada para clareza e rigor técnico.
 <br> [ X ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
 <br> [ X ] Avaliação da colaboração da equipe e cumprimento dos prazos.
-Apresentação e Conclusão do Projeto [ ] 
+Apresentação e Conclusão do Projeto [ X ] 
 <br>
 [ X ] Apresentação do projeto preparada com informações claras e objetivas.<br>
 [ X ] Conclusões do projeto destacando os resultados e aprendizados.<br>
@@ -134,6 +134,8 @@ Pessoas que ajudaram a tornar o sonho deste projeto possível e real:
 1. João Pedro Mourão Marques - 29259169
 2. Matheus William Motta Santos - 29351219
 3. Gustavo Martins Figueiredo - 29527741
+Agradacimento a Prof. Kadidja Valeria - Centro Universitário UDF
+
 
 
 <a href="https://github.com/GustaM0?tab=following">

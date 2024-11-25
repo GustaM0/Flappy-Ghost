@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://drive.google.com/file/d/1ezrrnCSh3P4BH_aXtbIdOhmSuIhbozWC/view?usp=sharing" alt="Logo" width="80" height="80">
+    <img src="./Captura de tela 2024-11-25 203538.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Readme - Flappy Ghost</h3>
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://drive.google.com/file/d/1MGeVL5WUVfalrR5iFMnOk5Tfa8fCZjY8/view?usp=sharing)
+[![Product Name Screen Shot][product-screenshot]](./demo flappy-ghost.mp4)
 
 Flappy Bird é um jogo eletrônico simples e viciante no qual o jogador controla um pássaro que 
 precisa atravessar uma série de obstáculos representados por pares de canos, evitando colisões enquanto 

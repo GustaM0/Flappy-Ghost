@@ -104,14 +104,14 @@ Fase 2: Planejamento [ X ]
 Fase 3: Desenho [ X ] 
 <br> [ X ] Análise de complexidade realizada para avaliar a eficiência teórica do algoritmo.
 <br> [ X ] Pontos críticos do algoritmo identificados para otimização, se necessário.
-Fase 4: Programação e Teste [ X ] 
+<br>Fase 4: Programação e Teste [ X ] 
 <br>
 [ X ] Algoritmo traduzido com precisão em código de programação.<br>
 [ X ] Código de programação escrito de forma clara e organizada.<br>
 [ X ]  Testes rigorosos realizados em uma variedade de casos de teste.<br>
 [ X ] Casos limite e situações especiais testados.<br>
 [ X ] Erros e problemas durante o teste de programa identificados e corrigidos.
-Documentação e Avaliação do Projeto [ X ] 
+<br>Documentação e Avaliação do Projeto [ X ] 
 
 <br> [ X ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
 <br> [ X ] Documentação revisada para clareza e rigor técnico.
@@ -119,7 +119,7 @@ Documentação e Avaliação do Projeto [ X ]
 <br> [ X ] Avaliação da colaboração da equipe e cumprimento dos prazos.
 Apresentação e Conclusão do Projeto [ X ] 
 <br>
-[ X ] Apresentação do projeto preparada com informações claras e objetivas.<br>
+<br>[ X ] Apresentação do projeto preparada com informações claras e objetivas.<br>
 [ X ] Conclusões do projeto destacando os resultados e aprendizados.<br>
 [ X ] Discussão sobre o projeto e respostas a perguntas da audiência.
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>

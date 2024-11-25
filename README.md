@@ -58,8 +58,8 @@ acessível
 
 Nosso incrível e explêndido jogo foi desenvolvido nestas tecnologias e linguagens:
 
-* [![C#][C#]][C-url]
-* [![Unit][Unit]][Unit-url]
+* <img src="./178512870-f58e1b32-b738-4949-a566-be513f28d439.png" width="20" height="20">
+* <img src="./images.png" width="20" height="20">
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 

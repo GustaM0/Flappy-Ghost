@@ -36,10 +36,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-<a>
-<img src="./demo flappy-ghost.mp4">
-</a>
-
 Flappy Bird é um jogo eletrônico simples e viciante no qual o jogador controla um pássaro que 
 precisa atravessar uma série de obstáculos representados por pares de canos, evitando colisões enquanto 
 acumula pontos a cada passagem bem-sucedida. Optamos por fazer um jogo como esse, porém utilizando 

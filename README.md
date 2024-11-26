@@ -77,7 +77,7 @@ Para mais detalhes sobre como o jogo foi desenvolvido acesse a [Documentation] d
 
 https://drive.google.com/file/d/1uUY-21boY87QUZTCjMh5WyNNo1m5la_D/view?usp=sharing
 
-Link Video:
+Link video DEMO: <br>
 https://drive.google.com/file/d/1MGeVL5WUVfalrR5iFMnOk5Tfa8fCZjY8/view?usp=sharing
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>

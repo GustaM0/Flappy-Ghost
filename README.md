@@ -34,7 +34,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre o Projeto
+## Sobre o Projeto da disciplina Computabilidade e Complexidade de algoritmos 
 
 Flappy Bird é um jogo eletrônico simples e viciante no qual o jogador controla um pássaro que 
 precisa atravessar uma série de obstáculos representados por pares de canos, evitando colisões enquanto 
